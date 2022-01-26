@@ -1,0 +1,29 @@
+ <Addmission_Info>
+ 	<Serial no. ="23">
+ 		<name> John Carter </name>
+ 		<Addmission_Date>
+ 			<date>25</date>
+ 			<month> 12 </month>
+ 			<year>2015</year>
+ 			</Addmission_Date>
+ 		</Serial>
+
+ 		<Serial no. ="29">
+ 			<name> Bod Marshal </name>
+ 			<Addmission_Date>
+ 				<date>13 </date>
+ 				<month> 01</month>
+ 				<year> 1999</year>
+ 			</Addmission_Date>
+ 		</Serial>
+
+
+ 		<Serial no. ="35">
+ 			<name> Clark Kent </name>
+ 			<Addmission_Date>
+ 				<date> 17</date>
+ 				<month> 06 </month>
+ 				<year> 2005 </year>
+ 			</Addmission_Date>
+ 		</Serial>
+ 	</Addmission_Info>
